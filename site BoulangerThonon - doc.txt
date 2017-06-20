@@ -6,3 +6,17 @@ DB
 
 nom : id1685618_famille
 pw : redyelenna
+
+
+
+-------------------------------------------------------------
+repository sur github
+
+template yii2 créé sur le médion
+->push
+
+clone sur le dell
+
+sur dell et médion repository = c:/sites/boulanger
+
+
